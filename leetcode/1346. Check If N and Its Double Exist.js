@@ -1,0 +1,3 @@
+var checkIfExist = function (arr) {
+
+};
